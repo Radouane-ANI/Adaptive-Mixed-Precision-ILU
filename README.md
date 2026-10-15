@@ -101,3 +101,13 @@ pdflatex report.tex  # Une seconde fois pour résoudre les références de figur
 ## Licence
 
 Ce projet est distribué sous licence MIT. Voir le fichier de licence pour plus d'informations.
+
+
+---
+
+## 👥 Auteurs & Cadre Académique
+
+* **Radouane Aouini** ([LinkedIn](https://www.linkedin.com/in/radouane-aouini-b14bab348))
+* **Sami Hbabou**
+* **Supervision Scientifique :** **Théo Mary** (Chargé de recherche, LIP6 / Sorbonne Université)
+* **Cadre :** Master Cryptologie, Calcul de Haute Performance et Algorithmie (CCA) — Sorbonne Université
