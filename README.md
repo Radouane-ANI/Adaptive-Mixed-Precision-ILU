@@ -1,4 +1,4 @@
-# GEP Mixte : Préconditionnement ILU Incomplet à Précision Mixte Adaptative
+# 📊 Adaptive-Mixed-Precision-ILU (GEP Mixte) : Préconditionnement Incomplet en Précision Mixte
 
 [![Matlab](https://img.shields.io/badge/MATLAB-R2021b%2B-blue.svg)](https://www.mathworks.com/products/matlab.html)
 [![LaTeX](https://img.shields.io/badge/LaTeX-PDF-green.svg)](https://www.latex-project.org/)
